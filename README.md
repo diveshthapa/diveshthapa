@@ -2,13 +2,7 @@
 Hi !
 A Short Description to know Me 
 
-<a href="https://discord.com/channels/@dbase#6556" target="_blank"><img height="30" src="https://lh5.googleusercontent.com/proxy/QJcNBMh-R7xk7EoymOIzgorIPjMN2zTHfDrIaj69YlfiEl_-tBNyrkPoa84bjB3aLd4X3ICFC9mI35ngR7EHkDAEv6jg8Rf5N8Oo-pVVtEmqhKqlXyMLj2RJd1akIC0F=w1600"></a>&nbsp;
-
-
-<a href="https://www.youtube.com/channel/UCRQYfdqumV5BVU43y1zO8yQ" target="_blank"><img height="30" src="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg"></a>&nbsp;&nbsp;
-
-
-<a href="https://wordpress.com/view/kasari0.wordpress.com" target="_blank"><img height="30" src="https://img.favpng.com/21/17/10/wordpress-logo-website-blog-icon-png-favpng-qsyAuDFukpKbsCKFCjaFLrhsA.jpg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/channels/@dbase#6556" target="_blank"><img height="30" src="https://lh5.googleusercontent.com/proxy/QJcNBMh-R7xk7EoymOIzgorIPjMN2zTHfDrIaj69YlfiEl_-tBNyrkPoa84bjB3aLd4X3ICFC9mI35ngR7EHkDAEv6jg8Rf5N8Oo-pVVtEmqhKqlXyMLj2RJd1akIC0F=w1600"></a>&nbsp;  <a href="https://wordpress.com/view/kasari0.wordpress.com" target="_blank"><img height="30" src="https://img.favpng.com/21/17/10/wordpress-logo-website-blog-icon-png-favpng-qsyAuDFukpKbsCKFCjaFLrhsA.jpg"></a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
