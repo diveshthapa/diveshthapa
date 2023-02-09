@@ -12,8 +12,8 @@ A Short Description to know Me
 </p>
 <br>
 
-I'm (Divehs Thapa) (https://diveshthapa.github.io/)<br>
-An android developer and graphic designer. I'm an enthusiast learner to new things. 
+I'm (Divesh Thapa) (https://diveshthapa.github.io/)<br>
+An Web Full Stack Developer (PHP/Laravel) and graphic designer. I'm an enthusiast learner to new things. 
 
 <br>
 
