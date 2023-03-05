@@ -7,17 +7,12 @@ A Short Description to know Me
 <br>
 
 I'm (Divesh Thapa)<br>
-An Web Full Stack Developer (PHP/Laravel) and graphic designer. I'm an enthusiast learner to new things. 
+An Web Full Stack Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner to new things. 
 
 <br>
 
  <img align="right" width="300" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/584c30d9440243f4207181d8/1491319751868-T4DQXC8CSYYL61A3ADQA/LifeLongLearner_white.png?format=750w" />
 
- ** How to reach me **
-  <br>
- 📧 [d******@gmail.com](mailto:dthapa007@gmail.com)
-  <br>
- 🌐 <a href="http://dthapa.com.np/" target="_blank"><img height="30">Website</a>
   
   
   <br>
