@@ -2,7 +2,6 @@
 Hi !
 A Short Description to know Me 
 
- <a href="https://wordpress.com/view/kasari0.wordpress.com" target="_blank"><img height="30" src="https://img.favpng.com/21/17/10/wordpress-logo-website-blog-icon-png-favpng-qsyAuDFukpKbsCKFCjaFLrhsA.jpg"></a>&nbsp;&nbsp;
 </p>
 <br>
 
@@ -32,8 +31,6 @@ An Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner o
 
 
 <br>
-<br>
-<hr>
 <summary>Stats Summary</summary> 
 
 
