@@ -7,7 +7,7 @@ A Short Description to know Me
 <br>
 
 I'm (Divesh Thapa)<br>
-An Web Full Stack Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner to new things. 
+An Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner of new things. 
 
 <br>
 
@@ -36,10 +36,6 @@ An Web Full Stack Developer (PHP/Laravel) and Graphic Designer. I'm an enthusias
 <hr>
 <summary>Stats Summary</summary> 
 
-<br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diveshthapa&show_icons=true&theme=gotham" alt="diveshthapa" />
-</br>
 
 <br>
 <hr>
