@@ -2,7 +2,7 @@
 Hi !
 A Short Description to know Me 
 
-</p>
+<hr>
 <br>
 
 I'm (Divesh Thapa)<br>
@@ -12,9 +12,7 @@ An Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner o
 
  <img align="right" width="300" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/584c30d9440243f4207181d8/1491319751868-T4DQXC8CSYYL61A3ADQA/LifeLongLearner_white.png?format=750w" />
 
-  
-  
-  <br>
+<br>
     
 ** Languages and Tools **
 
@@ -28,11 +26,7 @@ An Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner o
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
-
-<br>
-<summary>Stats Summary</summary> 
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 <br>
 <hr>
