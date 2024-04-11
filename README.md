@@ -1,6 +1,6 @@
 # KnowMe
 Hi !
-A Short Description to know Me 
+A Short Description of Me 
 
 <hr>
 <br>
