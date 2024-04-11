@@ -5,8 +5,7 @@ A Short Description to know Me
 <hr>
 <br>
 
-I'm (Divesh Thapa)<br>
-An Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner of new things. 
+I'm Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner of new things. 
 
 <br>
 
