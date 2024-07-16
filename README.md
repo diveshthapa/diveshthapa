@@ -5,7 +5,7 @@ A Short Description of Me
 <hr>
 <br>
 
-I'm Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner of new things. 
+I'm IT Officer | Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthusiast learner of new things. 
 
 <br>
 
