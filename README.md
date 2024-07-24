@@ -33,5 +33,6 @@ I'm IT Officer | Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthus
 
 <br>
 <hr>
-<div align="center">
+<div align="center">😇😍
+
 <div>
