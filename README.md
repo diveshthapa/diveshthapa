@@ -10,7 +10,7 @@ I'm IT Officer | Web Developer (PHP/Laravel) and Graphic Designer. I'm an enthus
 <br>
 
 
- <img align="right" width="300" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/584c30d9440243f4207181d8/1491319751868-T4DQXC8CSYYL61A3ADQA/LifeLongLearner_white.png?format=750w" />
+ <img align="center" width="300" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/584c30d9440243f4207181d8/1491319751868-T4DQXC8CSYYL61A3ADQA/LifeLongLearner_white.png?format=560w" />
 
 <br>
     
